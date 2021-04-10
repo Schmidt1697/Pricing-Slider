@@ -1,2 +1,3 @@
 # Pricing-Slider
-Frontend Mentor Challenge using HTML, CSS, JS
+Challenge from https://www.frontendmentor.io/ 
+HTML, CSS, JS
